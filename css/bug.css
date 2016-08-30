@@ -1,0 +1,30 @@
+/* Bug Tracker css file */
+
+
+section{
+	margin-bottom: 10px;
+
+}
+.closed{
+	color : red;
+	text-decoration: line-through;
+	font-weight: bold;
+	font-style: italic;
+}
+ol{
+	list-style: none;
+	width: 400px;
+	-webkit-padding-start: 0px;
+}
+li{
+	margin-bottom: 5px;
+	border: 1px solid gray;
+	padding: 5px;
+	background-color: #e7e7e7;
+	border-radius: 4px;
+	margin-left : 0px;
+}
+li span{
+	cursor: pointer;
+}
+/* end of Bug Tracker css file*/
